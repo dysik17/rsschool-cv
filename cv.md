@@ -1,6 +1,6 @@
 # My Resume
 
-## I'm Pre-middle Frontend-Developer
+## I'm Pre-Junior Frontend-Developer
 
 ### Contacts
 
